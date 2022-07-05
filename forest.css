@@ -1,0 +1,47 @@
+#palace{
+    margin-left:5%;
+    margin-top: 3%;
+    height:600px;
+    width:90%;
+}
+
+#fro{
+    margin-left: 34%;
+    margin-top: -32%;
+    height: 400px;
+    width: 30%;
+    visibility: hidden;
+}
+.background{
+    background-color:#ffb233;
+}
+
+#bea{
+    
+        margin-left: 34%;
+        margin-top: -32%;
+        height: 400px;
+        width: 30%;
+        visibility: hidden;
+        
+    }
+
+.text{
+    font-size: 51px;
+    margin-left: 14%;
+    margin-top: 2%; 
+}
+
+.box{
+    margin-left: 36%;
+    margin-top: 2%; 
+    box-shadow:10px 10px 10px grey;
+    height:100px;
+    width:20%;
+    background-color:white;
+
+}
+
+.btn{
+    margin-top:10%;
+}
